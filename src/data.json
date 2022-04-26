@@ -1,0 +1,26 @@
+
+  
+  {
+    "products" : [
+        {
+          "Name": "Neapolitan Pizza",
+          "img": "https://static.toiimg.com/photo/msid-87930581/87930581.jpg?211826",
+          "price": 100
+        },
+        {
+         "Name": "Chicago Pizza",
+          "img": "https://www.kingarthurbaking.com/sites/default/files/2019-12/stuffed-pizza.jpg",
+          "price": 200
+        },
+        {
+          "Name": "Sicilian Pizza",
+          "img": "https://www.thespruceeats.com/thmb/6Nn5NxSF8Y8ldhr75UjltAaSaFA=/3543x1993/smart/filters:no_upscale()/sicilian-pizza-86505330-57965df73df78ceb8631945d.jpg",
+         "price": 300
+        },
+        {
+          "Name": "Greek Pizza",
+          "img": "https://www.cookingclassy.com/wp-content/uploads/2013/10/greek-pizza2+srgb.-450x500.jpg",
+          "price": 200
+        }
+      ]
+  }

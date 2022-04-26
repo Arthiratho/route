@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.all{
+  display: flex;
+  justify-content: center;
+  justify-content:  space-around;
+}
+
+.option{
+  margin: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+
+
+.over{
+  font-size: 20px;
+  color: crimson;
+  bottom: 55%;
+  right: 43%;
+  position: absolute; 
+  width: 227px;
+  height:fit-content;
+  margin-left: -113px;
+  margin-top: -10;
+  transition: transform 12s;
+  background-color:whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+  
+}
+
+.blur{
+  filter: blur(8px);
+}
